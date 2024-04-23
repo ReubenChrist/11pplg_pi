@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+ <head>
+  <title>Form Login XI PPLG</title>
+ </head>
 <body>
  
 <?php
